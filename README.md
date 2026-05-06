@@ -46,7 +46,6 @@ Stay updated and get help through our official channels:
 
 - **X**: [@WebDeX_top](https://x.com/WebDeX_top)
 - **YouTube**: [@WebDeX_top](https://www.youtube.com/@WebDeX_top)
-- **Reddit**: [u/WebDeX_top](https://www.reddit.com/u/WebDeX_top)
 - **GitHub**: [WebDeX-top](https://github.com/WebDeX-top)
 
 ## 🐛 Issues
