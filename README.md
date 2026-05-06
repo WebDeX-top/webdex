@@ -45,7 +45,7 @@ WebDeX is built upon the incredible work of the open-source community. Special t
 Stay updated and get help through our official channels:
 
 - **X**: [@WebDeX_top](https://x.com/WebDeX_top)
-- **YouTube**: [@WebDeX_top](https://www.youtube.com/@WebDeX_top)
+- **YouTube**: [@WebDeX_top](https://youtube.com/@WebDeX_top)
 - **GitHub**: [WebDeX-top](https://github.com/WebDeX-top)
 
 ## 🐛 Issues
